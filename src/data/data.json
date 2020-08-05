@@ -1,0 +1,32 @@
+{
+    "profile":[ {
+        "basic":{
+            "name":" Jagan Mohan Reddy",
+            "role":" Associate Professor",
+            "phone": "9160738986",
+            "email":"jmreddy@lbrce.ac.in",
+            "image":"http://cse.lbrce.ac.in/img/faculty_img/dj.jpg"
+        }
+
+    },
+    {
+        "basic":{
+            "name":" S. Srinivasa Reddy",
+            "role":" Asisstant Prof",
+            "phone": "9182856527",
+            "email":"seelamsrinivasareddy@gmail.com",
+            "image": "http://cse.lbrce.ac.in/img/faculty_img/ssreddy22.JPG"
+        }
+    },
+    {
+        "basic":{
+            "name":" B S  Reddy",
+            "role":" Programmer",
+            "phone": "9182856527",
+            "email":"srboggula@gmail.com",
+            "image":"http://cse.lbrce.ac.in/img/non-faculty_img/bvsreddy.jpg"
+        }
+    }
+ ]
+
+}
