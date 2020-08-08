@@ -7,7 +7,21 @@
             "email":"jmreddy@lbrce.ac.in",
             "image":"../images/dj.jpg",
             "address":"Mylavaram, Andhra Pradesh"
-        }
+        },
+        "skills":[
+            {
+                "type":"Web Tech",
+                "values":["HTML", "CSS", "JavaScript"]
+            },
+            {
+                "type":"Programming Lang",
+                "values":["C", "Java", "Python"]
+            },
+            {
+                "type":"Databases",
+                "values":["MySql", "Oracle", "Mongo"]
+            }
+        ]
 
     },
     {
@@ -18,7 +32,21 @@
             "email":"seelamsrinivasareddy@gmail.com",
             "image": "../images/ssreddy.jpg",
             "address":"Velwadam, Andhra Pradesh"
-        }
+        },
+        "skills":[
+            {
+                "type":"Web Tech",
+                "values":["HTML", "CSS", "JavaScript"]
+            },
+            {
+                "type":"Programming Lang",
+                "values":["C", "Java", "Shell Script"]
+            },
+            {
+                "type":"Databases",
+                "values":["MySql", "Oracle", "MS SQL"]
+            }
+        ]
     },
     {
         "basic":{
@@ -28,7 +56,21 @@
             "email":"srboggula@gmail.com",
             "image":"../images/bvsreddy.jpg",
             "address":"Tholukodu, Andhra Pradesh"
-        }
+        },
+        "skills":[
+            {
+                "type":"Web Tech",
+                "values":["HTML", "CSS", "JavaScript"]
+            },
+            {
+                "type":"Programming Lang",
+                "values":["C", "Java", "Shell Script"]
+            },
+            {
+                "type":"Databases",
+                "values":["MySql", "Oracle"]
+            }
+        ]
     }
  ]
 
