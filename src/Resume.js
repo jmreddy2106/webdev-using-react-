@@ -1,12 +1,12 @@
 import React from 'react';
 
-let Resume = () => {
+let Resume = (props) => {
 
     return (
 
         <div>
             
-            
+
         </div>
 
     );

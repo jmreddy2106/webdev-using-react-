@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+
+.header{
+  padding: 2%;
+  background: #28287b;
+  color: #ffffff;
+  font-size:  18px;
+  font-weight: 550;
+}
+.parent{
+  padding: 2%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+.child{
+  padding: 2%;
+  box-shadow: 0px 8px 8px -8px gray;
+  width: 20%;
+  border: 1px solid #ddd;
+  margin: 1%;
+  text-align: center;
+}
+
+.btn{
+  background: #3a5acb;
+  color: #fff;
+  /* display: block; */
+  padding: 1%;
+}

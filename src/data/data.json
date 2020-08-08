@@ -5,7 +5,8 @@
             "role":" Associate Professor",
             "phone": "9160738986",
             "email":"jmreddy@lbrce.ac.in",
-            "image":"http://cse.lbrce.ac.in/img/faculty_img/dj.jpg"
+            "image":"../images/dj.jpg",
+            "address":"Mylavaram, Andhra Pradesh"
         }
 
     },
@@ -15,7 +16,8 @@
             "role":" Asisstant Prof",
             "phone": "9182856527",
             "email":"seelamsrinivasareddy@gmail.com",
-            "image": "http://cse.lbrce.ac.in/img/faculty_img/ssreddy22.JPG"
+            "image": "../images/ssreddy.jpg",
+            "address":"Velwadam, Andhra Pradesh"
         }
     },
     {
@@ -24,7 +26,8 @@
             "role":" Programmer",
             "phone": "9182856527",
             "email":"srboggula@gmail.com",
-            "image":"http://cse.lbrce.ac.in/img/non-faculty_img/bvsreddy.jpg"
+            "image":"../images/bvsreddy.jpg",
+            "address":"Tholukodu, Andhra Pradesh"
         }
     }
  ]
