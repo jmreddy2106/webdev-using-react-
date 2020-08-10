@@ -34,7 +34,7 @@ let Home=()=>{
         
         <article className="child" key={index}>
           <h2>{val.basic.name}</h2>
-            <Link className="btn" to="/resume" >View Profile</Link>
+            <Link className="btn" to={{pathname: "/resume", profileid:{id:index}}} >View Profile</Link>
 
         </article>
 
