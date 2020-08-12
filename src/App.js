@@ -9,8 +9,6 @@ import Resume from './Resume';
 function App() {
 
 
-
-
   return (
     <div>
       <header className="header">
@@ -35,7 +33,6 @@ let Home=()=>{
         <article className="child" key={index}>
           <h2>{val.basic.name}</h2>
             <Link className="btn" to={{pathname: "/resume", profileid:{id:index}}} >View Profile</Link>
-
         </article>
 
       ))}

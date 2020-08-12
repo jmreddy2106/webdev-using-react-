@@ -76,18 +76,19 @@
   border-radius: 2px solid ;
 }
 .child11{
-  padding: 2%;
-  margin: 1%;
-  text-align: center;
-  border-radius: 2px solid ;
+    padding: 2%;
+    margin: 5px;
+    box-shadow: 0px 1px 10px 1px;
+    height: min-content;
+    text-align: center;
 }
 .lang{
-  margin-right: 2%;
+  margin-right: 5%;
   font-size: 12px;
+  display: inline-flex;
 }
 .btn{
   background: #3a5acb;
   color: #fff;
-  /* display: block; */
   padding: 1%;
 }
